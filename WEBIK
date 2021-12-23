@@ -1,0 +1,26 @@
+<html>
+    <title>Новинки ігор</title>
+<body>
+    <header><img src="https://elements-cover-images-0.imgix.net/3c6543d6-6276-42cd-b4f7-5ffde7310371?auto=compress&crop=edges&fit=crop&fm=jpeg&h=630&w=1200&s=70177fdca71b5a952103c8cce831d3b4"width="100px" height="80px"/></header>
+    <h1 style="color:#191970">Ігри в які я зараз граю</h1>
+    <h2>Тут є багато цікавого</h2>
+    <p>Я зараз граю Far Cry 5, недавно вже завершив сюжетку в Far Cry 3</p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/4/42/Far_Cry_5_cover.png/274px-Far_Cry_5_cover.png"  width="250px" height="325px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/a/a0/Far_Cry_3_Box_Art_PC.jpeg/274px-Far_Cry_3_Box_Art_PC.jpeg" width="250px" height="325px"/></p>
+    <table style="font-size:20px">
+        <tr>
+            <td style="border:1px solid #191970">нівіов</td>
+            <td>івфва</td>
+        </tr>
+        <tr>
+            <td>нівіов</td>
+            <td>івфва</td>
+        </tr>
+        <tr>
+            <td>нівіов</td>
+            <td>івфва</td>
+        </tr>
+    </table>
+    <footer>Beluga#1455</footer>
+</body>
+</html>
